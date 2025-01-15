@@ -35,7 +35,7 @@ Humidity and wind speed.
 ## 🚀 How to Use
 Clone this repository:
 
-```bash```  ```git clone https://github.com/yourusername/weather-app.git```
+```bash```  ```git clone https://github.com/pragti-124/Weather-api.git```
 
 ```cd weather-app```
 
